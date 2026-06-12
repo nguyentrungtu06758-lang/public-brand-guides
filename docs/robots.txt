@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://nguyentrungtu06758-lang.github.io/public-brand-guides/sitemap.xml
